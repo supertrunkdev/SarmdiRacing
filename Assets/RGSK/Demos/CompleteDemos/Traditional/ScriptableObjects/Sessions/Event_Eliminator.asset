@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4271608f50429a44b40becc23333c13, type: 3}
+  m_Name: Event_Eliminator
+  m_EditorClassIdentifier: 
+  id:
+    value: 00ecfdca-96bb-4d72-8a4f-ee8d09a1b1bf
+  objectName: Eliminator
+  description: Stay ahead of the competition to avoid elimination!
+  icon: {fileID: 0}
+  previewPhoto: {fileID: 21300000, guid: 23d874d0321a85847a4a826565af9c26, type: 3}
+  unlockedByDefault: 1
+  sessionType: 0
+  raceType: {fileID: 11400000, guid: d37c935ca2ef3f940a6ac1dbabf9b75e, type: 2}
+  startMode: 0
+  lapCount: 3
+  opponentDifficulty: 2
+  opponentCount: 3
+  playerGridStartMode: 0
+  playerStartPosition: 0
+  sessionTimeLimit: 30
+  enableGhost: 1
+  disableCollision: 0
+  entrants:
+  - prefab: {fileID: 1006786389525610645, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+    profile: {fileID: 0}
+    color: {r: 0, g: 1, b: 0.05528426, a: 1}
+    livery: {fileID: 0}
+    colorSelectMode: 0
+    isPlayer: 1
+  targetScores: []
+  autoPopulateOpponents: 1
+  opponentClass: 2
+  opponentVehicleClass: {fileID: 0}
+  raceRewards: []
+  track: {fileID: 11400000, guid: 4b0689e74c9a883468d9cdf718b4e02f, type: 2}
+  saveRecords: 1
