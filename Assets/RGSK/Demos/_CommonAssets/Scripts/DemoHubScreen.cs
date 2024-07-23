@@ -44,6 +44,11 @@ namespace RGSK
             if (nameText != null)
             {
                 nameText.GetComponent<TMP_Text>()?.SetText(demo.name);
+                Text text2 = nameText.GetComponent <Text>();
+                if (text2)
+                {
+                    text2.text = demo.name;
+                }
             }
 
             if (previewImage != null)
