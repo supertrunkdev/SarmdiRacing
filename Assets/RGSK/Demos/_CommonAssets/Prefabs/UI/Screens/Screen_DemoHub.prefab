@@ -34,7 +34,6 @@ RectTransform:
   - {fileID: 996992777884611305}
   - {fileID: 996992777934195983}
   m_Father: {fileID: 996992777509263987}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -141,7 +140,6 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 996992778131655560}
-  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -273,7 +271,6 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 996992777279798003}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -413,7 +410,6 @@ RectTransform:
   - {fileID: 996992777277752034}
   - {fileID: 996992778171407623}
   m_Father: {fileID: 996992778160764524}
-  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -567,7 +563,6 @@ RectTransform:
   m_Children:
   - {fileID: 996992777752721184}
   m_Father: {fileID: 996992778737847386}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -605,12 +600,11 @@ RectTransform:
   m_Children:
   - {fileID: 996992778872520753}
   m_Father: {fileID: 996992778052384077}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 920}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 885, y: -460}
+  m_SizeDelta: {x: 1770, y: 920}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &996992777453979526
 CanvasRenderer:
@@ -653,12 +647,11 @@ RectTransform:
   m_Children:
   - {fileID: 996992777463933184}
   m_Father: {fileID: 996992778872520753}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: -17, y: 0}
   m_Pivot: {x: 0, y: 1}
 --- !u!222 &996992777457950422
 CanvasRenderer:
@@ -742,7 +735,6 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 996992777457950425}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
@@ -818,7 +810,6 @@ RectTransform:
   m_Children:
   - {fileID: 996992777198263025}
   m_Father: {fileID: 996992777833523297}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -869,7 +860,6 @@ RectTransform:
   - {fileID: 996992778191026825}
   - {fileID: 996992779175108509}
   m_Father: {fileID: 996992778160764524}
-  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -1024,10 +1014,9 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 996992777339322918}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 20, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -1102,7 +1091,6 @@ RectTransform:
   m_Children:
   - {fileID: 996992777509263987}
   m_Father: {fileID: 996992778509062856}
-  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -1199,7 +1187,6 @@ RectTransform:
   m_Children:
   - {fileID: 996992778172936230}
   m_Father: {fileID: 996992777198263025}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -1290,7 +1277,6 @@ RectTransform:
   m_Children:
   - {fileID: 996992779138964392}
   m_Father: {fileID: 996992777198263025}
-  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -1402,7 +1388,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &996992778052384077
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1417,7 +1403,6 @@ RectTransform:
   m_Children:
   - {fileID: 996992777453979527}
   m_Father: {fileID: 996992778509062856}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -1513,7 +1498,6 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 996992778497080935}
-  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -1646,7 +1630,6 @@ RectTransform:
   - {fileID: 5758014883194086330}
   - {fileID: 996992777235273914}
   m_Father: {fileID: 996992778160764524}
-  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -1697,7 +1680,6 @@ RectTransform:
   - {fileID: 996992777279798003}
   - {fileID: 996992778131655560}
   m_Father: {fileID: 996992779035470563}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
@@ -1799,7 +1781,6 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 996992777279798003}
-  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
@@ -1875,7 +1856,6 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 996992777884611305}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
@@ -1951,7 +1931,6 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 996992777602249865}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -2087,7 +2066,6 @@ RectTransform:
   - {fileID: 5758014882206927935}
   - {fileID: 996992778084466408}
   m_Father: {fileID: 996992778160764524}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -2133,7 +2111,6 @@ RectTransform:
   - {fileID: 996992778052384077}
   - {fileID: 996992777833523297}
   m_Father: {fileID: 996992779035470563}
-  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -2173,7 +2150,6 @@ RectTransform:
   m_Children:
   - {fileID: 996992777339322918}
   m_Father: {fileID: 996992778872520753}
-  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -2301,7 +2277,6 @@ RectTransform:
   - {fileID: 996992777457950425}
   - {fileID: 996992778737847386}
   m_Father: {fileID: 996992777453979527}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -2408,7 +2383,6 @@ RectTransform:
   - {fileID: 996992778160764524}
   - {fileID: 996992778509062856}
   m_Father: {fileID: 1451050297743257036}
-  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -2458,7 +2432,6 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 996992779138964392}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -2533,7 +2506,6 @@ RectTransform:
   m_Children:
   - {fileID: 996992779099505735}
   m_Father: {fileID: 996992777934195983}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -2571,7 +2543,6 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 996992777602249865}
-  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0}
@@ -2653,7 +2624,6 @@ RectTransform:
   - {fileID: 9054646137761332436}
   - {fileID: 996992779035470563}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -2677,7 +2647,9 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
+  m_VertexColorAlwaysGammaSpace: 0
   m_AdditionalShaderChannelsFlag: 25
+  m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
   m_SortingOrder: 1
   m_TargetDisplay: 0
@@ -2785,23 +2757,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   demos:
-  - name: Traditional
-    id: traditional
-    preview: {fileID: 21300000, guid: 12c6c98827abfd149b8d1d087a5d373e, type: 3}
-    isShowcase: 0
-    settings:
-      generalSettings: {fileID: 0}
-      sceneSettings: {fileID: 11400000, guid: 8e8ce246ab870a1428414fa749056676, type: 2}
-      contentSettings: {fileID: 0}
-      raceSettings: {fileID: 0}
-      aiSettings: {fileID: 0}
-      uiSettings: {fileID: 0}
-      inputSettings: {fileID: 0}
-      vehicleSettings: {fileID: 0}
-    scene:
-      sceneAsset: {fileID: 102900000, guid: 089d76328873f8748b2efa76482c5fcb, type: 3}
-      scenePath: Assets/RGSK/Demos/CompleteDemos/Traditional/_MainMenu.unity
-  - name: AI
+  - name: Level 1
     id: showcase_ai
     preview: {fileID: 21300000, guid: cf8fd201ed910b04a9cb223e781f4596, type: 3}
     isShowcase: 1
@@ -2815,9 +2771,9 @@ MonoBehaviour:
       inputSettings: {fileID: 0}
       vehicleSettings: {fileID: 0}
     scene:
-      sceneAsset: {fileID: 102900000, guid: d17fa7566c9fce643aa55112ad6d1a23, type: 3}
-      scenePath: Assets/RGSK/Demos/_CommonScenes/Showcase/AI.unity
-  - name: Drift
+      sceneAsset: {fileID: 102900000, guid: 1d8ae2e4fd2643f4981af3a2159d2055, type: 3}
+      scenePath: Assets/RGSK/Demos/_CommonAssets/_CommonScenes/Showcase/Work10.unity
+  - name: "\uC790\uB3D9\uCC28 \uC0B0\uD559\uD68C"
     id: showcase_drift
     preview: {fileID: 21300000, guid: cf8fd201ed910b04a9cb223e781f4596, type: 3}
     isShowcase: 1
@@ -2833,8 +2789,8 @@ MonoBehaviour:
     scene:
       sceneAsset: {fileID: 102900000, guid: 461f8403118aacf459e2c4616e1f4a62, type: 3}
       scenePath: Assets/RGSK/Demos/_CommonScenes/Showcase/Drift.unity
-  - name: Drag
-    id: showcase_drag
+  - name: "\uACE0\uB77C\uB2C8\uC758 \uC0B6"
+    id: showcase_ai
     preview: {fileID: 21300000, guid: cf8fd201ed910b04a9cb223e781f4596, type: 3}
     isShowcase: 1
     settings:
@@ -2847,93 +2803,14 @@ MonoBehaviour:
       inputSettings: {fileID: 0}
       vehicleSettings: {fileID: 0}
     scene:
-      sceneAsset: {fileID: 102900000, guid: 2ecfa3d5f123a1e42b130f8689db63d0, type: 3}
-      scenePath: Assets/RGSK/Demos/_CommonScenes/Showcase/Drag.unity
-  - name: Score Attack
-    id: showcase_scoreattack
-    preview: {fileID: 21300000, guid: cf8fd201ed910b04a9cb223e781f4596, type: 3}
-    isShowcase: 1
-    settings:
-      generalSettings: {fileID: 0}
-      sceneSettings: {fileID: 11400000, guid: 72b27492ee611504c9c10e271504f5fd, type: 2}
-      contentSettings: {fileID: 0}
-      raceSettings: {fileID: 0}
-      aiSettings: {fileID: 0}
-      uiSettings: {fileID: 0}
-      inputSettings: {fileID: 0}
-      vehicleSettings: {fileID: 0}
-    scene:
-      sceneAsset: {fileID: 102900000, guid: 564cb78f0095ab043a10866af6382ea6, type: 3}
-      scenePath: Assets/RGSK/Demos/_CommonScenes/Showcase/ScoreAttack.unity
-  - name: Top Down
-    id: showcase_topdown
-    preview: {fileID: 21300000, guid: cf8fd201ed910b04a9cb223e781f4596, type: 3}
-    isShowcase: 1
-    settings:
-      generalSettings: {fileID: 0}
-      sceneSettings: {fileID: 11400000, guid: 72b27492ee611504c9c10e271504f5fd, type: 2}
-      contentSettings: {fileID: 0}
-      raceSettings: {fileID: 0}
-      aiSettings: {fileID: 0}
-      uiSettings: {fileID: 0}
-      inputSettings: {fileID: 0}
-      vehicleSettings: {fileID: 0}
-    scene:
-      sceneAsset: {fileID: 102900000, guid: 4e7d9cf5c4e69ee4e9cf383ae8dd1d60, type: 3}
-      scenePath: Assets/RGSK/Demos/_CommonScenes/Showcase/TopDown.unity
-  - name: Replay
-    id: showcase_replay
-    preview: {fileID: 21300000, guid: cf8fd201ed910b04a9cb223e781f4596, type: 3}
-    isShowcase: 1
-    settings:
-      generalSettings: {fileID: 0}
-      sceneSettings: {fileID: 11400000, guid: 72b27492ee611504c9c10e271504f5fd, type: 2}
-      contentSettings: {fileID: 0}
-      raceSettings: {fileID: 0}
-      aiSettings: {fileID: 0}
-      uiSettings: {fileID: 0}
-      inputSettings: {fileID: 0}
-      vehicleSettings: {fileID: 0}
-    scene:
-      sceneAsset: {fileID: 102900000, guid: c949799b7f3d40640991a80d4eaa5748, type: 3}
-      scenePath: Assets/RGSK/Demos/_CommonScenes/Showcase/Replay.unity
-  - name: Ghost
-    id: showcase_ghost
-    preview: {fileID: 21300000, guid: cf8fd201ed910b04a9cb223e781f4596, type: 3}
-    isShowcase: 1
-    settings:
-      generalSettings: {fileID: 0}
-      sceneSettings: {fileID: 11400000, guid: 72b27492ee611504c9c10e271504f5fd, type: 2}
-      contentSettings: {fileID: 0}
-      raceSettings: {fileID: 0}
-      aiSettings: {fileID: 0}
-      uiSettings: {fileID: 0}
-      inputSettings: {fileID: 0}
-      vehicleSettings: {fileID: 0}
-    scene:
-      sceneAsset: {fileID: 102900000, guid: b3cb117daad4f844cb974370b24ed818, type: 3}
-      scenePath: Assets/RGSK/Demos/_CommonScenes/Showcase/Ghost.unity
-  - name: Playground
-    id: showcase_playground
-    preview: {fileID: 21300000, guid: cf8fd201ed910b04a9cb223e781f4596, type: 3}
-    isShowcase: 1
-    settings:
-      generalSettings: {fileID: 0}
-      sceneSettings: {fileID: 11400000, guid: 72b27492ee611504c9c10e271504f5fd, type: 2}
-      contentSettings: {fileID: 0}
-      raceSettings: {fileID: 0}
-      aiSettings: {fileID: 0}
-      uiSettings: {fileID: 0}
-      inputSettings: {fileID: 0}
-      vehicleSettings: {fileID: 0}
-    scene:
-      sceneAsset: {fileID: 102900000, guid: d0f6fd3e2c448c54288dea2a28d18c68, type: 3}
-      scenePath: Assets/RGSK/Demos/_CommonScenes/Showcase/Playground.unity
+      sceneAsset: {fileID: 102900000, guid: b920b8c0b6ff48e4785a98b3d6e83a86, type: 3}
+      scenePath: Assets/RGSK/Demos/_CommonScenes/Showcase/Work02.unity
 --- !u!1001 &996992777982177177
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 3
     m_TransformParent: {fileID: 996992778497080935}
     m_Modifications:
     - target: {fileID: 3338524345472188899, guid: 492b3db1cc9e5e44eb91798ecd697132, type: 3}
@@ -3069,6 +2946,9 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 492b3db1cc9e5e44eb91798ecd697132, type: 3}
 --- !u!224 &5758014882206927935 stripped
 RectTransform:
@@ -3080,6 +2960,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 3
     m_TransformParent: {fileID: 996992778131655560}
     m_Modifications:
     - target: {fileID: 3338524345472188899, guid: 492b3db1cc9e5e44eb91798ecd697132, type: 3}
@@ -3215,6 +3096,9 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 492b3db1cc9e5e44eb91798ecd697132, type: 3}
 --- !u!224 &5758014883194086330 stripped
 RectTransform:
@@ -3226,6 +3110,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 3
     m_TransformParent: {fileID: 1451050297743257036}
     m_Modifications:
     - target: {fileID: 4579386606153925264, guid: 1211f3fbabe92fc4d83810250558a42a, type: 3}
@@ -3334,6 +3219,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8034367021702747971, guid: 1211f3fbabe92fc4d83810250558a42a, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4579386606153925264, guid: 1211f3fbabe92fc4d83810250558a42a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3026017400945479386}
   m_SourcePrefab: {fileID: 100100000, guid: 1211f3fbabe92fc4d83810250558a42a, type: 3}
 --- !u!1 &1280353804503625290 stripped
 GameObject:
